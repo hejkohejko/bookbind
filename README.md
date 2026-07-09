@@ -11,7 +11,7 @@ Works only on linux <3
 
 Consult the 'explanation.png' file included
 
-# WHAT IS EMPTY.PNG? OR THE PRINTABLE DIRECTORY?
+# WHAT IS EMPTY.PNG? OR FILES.TXT?
 
 Do not delete them, it's here so the program doesn't die to death.
 
